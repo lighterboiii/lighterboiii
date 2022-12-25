@@ -21,6 +21,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lighterboiii&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lighterboiii&theme=radical)
 
+[![codewars](https://www.codewars.com/users/lighterboiii/badges/micro)](https://www.codewars.com/users/lighterboiii)
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 ## Contacts: 
 ### 📩 Email: s.baumtrok2009@yandex.ru
 ### ✈ Telegram: [lighterboii](https://t.me/lighterboii)
