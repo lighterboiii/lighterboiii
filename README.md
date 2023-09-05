@@ -34,7 +34,7 @@
 [![codewars](https://www.codewars.com/users/lighterboiii/badges/micro)](https://www.codewars.com/users/lighterboiii)
 
 ## Contacts: 
-### 📩 Email: s.baumtrok2009@yandex.ru
+### 📩 Email: me@vbaumtrok.ru
 ### ✈ Telegram: [lighterboii](https://t.me/lighterboii)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
