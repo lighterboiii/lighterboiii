@@ -16,9 +16,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-## Statistics
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lighterboiii&theme=radical)
+____
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lighterboiii&theme=radical)
 
 ## Contacts: 
