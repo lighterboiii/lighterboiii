@@ -1,5 +1,5 @@
 # Hello, I'm [Viacheslav](https://www.instagram.com/lighterboii/)
-### Web developer and Yandex.Practicum student 🖥
+### Web developer and Yandex.Practicum alumnus 👨‍💻
 #### I'm currently workin on https://botkits.ru/ 
 
 ## My technology stack
