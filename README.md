@@ -2,6 +2,12 @@
 ### Web developer and Yandex.Practicum alumnus 👨‍💻
 #### I'm currently workin on https://botkits.ru/ 
 
+#### About me:
+- travel is my passion 🛫
+- love extreme sports 🏂🏾
+- launched catering projects 🧉
+- party animal 🍾
+
 ## My technology stack
 <div align="center">
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
