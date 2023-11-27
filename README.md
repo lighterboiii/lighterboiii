@@ -6,7 +6,6 @@
 - travel is my passion 🛫
 - love extreme sports 🏂🏾
 - launched catering projects 🧉
-- party animal 🍾
 
 ## My technology stack
 <div align="center">
