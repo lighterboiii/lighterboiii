@@ -1,11 +1,13 @@
 # Hello, I'm [Viacheslav](https://www.instagram.com/lighterboii/)
 ### Web developer and Yandex.Practicum alumnus 👨‍💻
-#### I'm currently workin on https://botkits.ru/ 
+#### I'm currently workin on [Botkits.ru](https://botkits.ru/)
 
 #### About me:
 - travel is my passion 🛫
 - love extreme sports 🏂🏾
-- launched catering projects 🧉
+- launching catering projects 🧉
+- videomaker 🎥
+- interested in street fotography 📸
 
 ## My technology stack
 <div align="center">
@@ -42,7 +44,7 @@ _____
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lighterboiii&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lighterboiii&theme=tokyonight)
 
-## Contacts: 
+## Contact me: 
 ### 📩 Email: me@vbaumtrok.ru
 ### ✈ Telegram: [lighterboii](https://t.me/lighterboii)
 
