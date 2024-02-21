@@ -3,10 +3,11 @@
 #### I'm currently workin on [Botkits.ru](https://botkits.ru/)
 
 #### About me:
+- love to invent and create ⚒️
 - travel is my passion 🛫
 - love extreme sports 🏂🏾
 - launching catering projects 🧉
-- videomaker 🎥
+- ex videomaker 🎥
 - interested in street fotography 📸
 
 ## My technology stack
