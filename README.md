@@ -1,6 +1,6 @@
 # Hello, I'm [Viacheslav](https://www.instagram.com/lighterboii/)
 ### Web developer and Yandex.Practicum alumnus 👨‍💻
-#### I'm currently workin on [Botkits.ru](https://botkits.ru/)
+#### I'm currently workin on [Botkits.ru](https://botkits.ru/) and developing telegram bots
 
 #### About me:
 - love to invent and create ⚒️
