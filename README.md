@@ -1,6 +1,6 @@
 # Hello, I'm [Viacheslav](https://www.instagram.com/lighterboii/)
 ### Yandex.Practicum alumnus and Project Manager in Oxem Studio 👨‍💻
-#### I'm currently workin on Telegram WebApps
+#### I'm also workin on Telegram WebApps
 
 #### About me:
 - love to invent and create ⚒️
