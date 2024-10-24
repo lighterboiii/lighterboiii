@@ -6,7 +6,6 @@
 - love to invent and create ⚒️
 - travel is my passion 🛫
 - love extreme sports 🏂🏾
-- launching catering projects 🧉
 - ex videomaker 🎥
 - interested in street fotography 📸
 
