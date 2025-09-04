@@ -1,6 +1,7 @@
 # Hello, I'm [Viacheslav](https://www.instagram.com/lighterboii/)
 ### Project Lead at Malltech Lab 👨‍💻
-#### Working on WebApps & studying at MGIMO (Master’s program)
+#### Working on web apps & telegram bots
+#### Master’s in Digital Product Management for International Markets, MGIMO
 
 #### About me:
 - love to invent and create ⚒️
