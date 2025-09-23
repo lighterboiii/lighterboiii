@@ -5,7 +5,7 @@
 
 #### About me:
 - love to invent and create ⚒️
-- Yandex alumnus
+- Yandex alumnus 👨‍🎓
 - travel is my passion 🛫
 - love extreme sports 🏂🏾
 - ex videomaker 🎥
