@@ -1,5 +1,5 @@
 # Hello, I'm [Viacheslav](https://www.instagram.com/lighterboii/)
-### Product Owner👨‍💻
+### Product Manager👨‍💻
 #### Working on web apps & telegram bots
 #### Master’s in Digital Product Management for International Markets, MGIMO
 
