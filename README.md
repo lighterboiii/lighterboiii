@@ -1,7 +1,7 @@
 # Hello, I'm [Viacheslav](https://www.instagram.com/lighterboii/)
-### Product Manager👨‍💻
-#### Working on web apps & telegram bots
+### Product Manager | Product Owner👨‍💻
 #### Master’s in Digital Product Management for International Markets, MGIMO
+#### Product Lead in Skadi Technologies
 
 #### About me:
 - love to invent and create ⚒️
@@ -10,6 +10,7 @@
 - love extreme sports 🏂🏾
 - ex videomaker 🎥
 - interested in street fotography 📸
+- really into wine & food 🍷
 
 ## My technology stack
 <div align="center">
