@@ -1,7 +1,7 @@
 # Hello, I'm [Viacheslav](https://www.instagram.com/lighterboii/)
 ### Product Manager | Product Owner👨‍💻
 #### Master’s in Digital Product Management for International Markets, MGIMO
-#### Product Lead in Skadi Technologies
+#### Techincal Product Owner, Ivi | Product Lead, Skadi Technologies | CoOwner Xrable
 
 #### About me:
 - love to invent and create ⚒️
